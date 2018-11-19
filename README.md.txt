@@ -1,3 +1,1 @@
-```
-*C sharp
-```
+C sharp

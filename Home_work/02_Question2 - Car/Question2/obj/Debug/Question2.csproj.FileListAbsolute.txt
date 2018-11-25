@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\C#\Home_work\Question2\Question2\bin\Debug\Question2.exe.config
+C:\Users\User\Desktop\C#\Home_work\Question2\Question2\bin\Debug\Question2.exe
+C:\Users\User\Desktop\C#\Home_work\Question2\Question2\bin\Debug\Question2.pdb
+C:\Users\User\Desktop\C#\Home_work\Question2\Question2\obj\Debug\Question2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#\Home_work\Question2\Question2\obj\Debug\Question2.exe
+C:\Users\User\Desktop\C#\Home_work\Question2\Question2\obj\Debug\Question2.pdb

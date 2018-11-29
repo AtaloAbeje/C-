@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\C#\Home_work\03_Question1 - Clock\03_Question1 - Clock\bin\Debug\03_Question1 - Clock.exe.config
+C:\Users\User\Desktop\C#\Home_work\03_Question1 - Clock\03_Question1 - Clock\obj\Debug\03_Question1 - Clock.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#\Home_work\03_Question1 - Clock\03_Question1 - Clock\bin\Debug\03_Question1 - Clock.exe
+C:\Users\User\Desktop\C#\Home_work\03_Question1 - Clock\03_Question1 - Clock\bin\Debug\03_Question1 - Clock.pdb
+C:\Users\User\Desktop\C#\Home_work\03_Question1 - Clock\03_Question1 - Clock\obj\Debug\03_Question1 - Clock.exe
+C:\Users\User\Desktop\C#\Home_work\03_Question1 - Clock\03_Question1 - Clock\obj\Debug\03_Question1 - Clock.pdb

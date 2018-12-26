@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18_Circle\HomeWork_24_12_18_Circle\bin\Debug\HomeWork_24_12_18_Circle.exe.config
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18_Circle\HomeWork_24_12_18_Circle\bin\Debug\HomeWork_24_12_18_Circle.exe
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18_Circle\HomeWork_24_12_18_Circle\bin\Debug\HomeWork_24_12_18_Circle.pdb
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18_Circle\HomeWork_24_12_18_Circle\obj\Debug\HomeWork_24_12_18_Circle.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18_Circle\HomeWork_24_12_18_Circle\obj\Debug\HomeWork_24_12_18_Circle.exe
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18_Circle\HomeWork_24_12_18_Circle\obj\Debug\HomeWork_24_12_18_Circle.pdb
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18 - Circle\HomeWork_24_12_18_Circle\bin\Debug\HomeWork_24_12_18_Circle.exe.config
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18 - Circle\HomeWork_24_12_18_Circle\obj\Debug\HomeWork_24_12_18_Circle.exe
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18 - Circle\HomeWork_24_12_18_Circle\obj\Debug\HomeWork_24_12_18_Circle.pdb
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18 - Circle\HomeWork_24_12_18_Circle\bin\Debug\HomeWork_24_12_18_Circle.exe
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18 - Circle\HomeWork_24_12_18_Circle\bin\Debug\HomeWork_24_12_18_Circle.pdb
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18 - Circle\HomeWork_24_12_18_Circle\obj\Debug\HomeWork_24_12_18_Circle.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18 - Circle & Square\HomeWork_24_12_18_Circle\bin\Debug\HomeWork_24_12_18_Circle.exe.config
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18 - Circle & Square\HomeWork_24_12_18_Circle\bin\Debug\HomeWork_24_12_18_Circle.exe
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18 - Circle & Square\HomeWork_24_12_18_Circle\bin\Debug\HomeWork_24_12_18_Circle.pdb
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18 - Circle & Square\HomeWork_24_12_18_Circle\obj\Debug\HomeWork_24_12_18_Circle.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18 - Circle & Square\HomeWork_24_12_18_Circle\obj\Debug\HomeWork_24_12_18_Circle.exe
+C:\Users\User\Desktop\C#\Home_work\HomeWork_24_12_18 - Circle & Square\HomeWork_24_12_18_Circle\obj\Debug\HomeWork_24_12_18_Circle.pdb

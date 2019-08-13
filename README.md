@@ -23,16 +23,17 @@
   * [short condition - example](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/03_short%20condition%20-%20example/03_short%20condition%20-%20example/Program.cs) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/03_short%20condition%20-%20example/result.png)
 
 + Switch - case
-
-
+   * [switch-case](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/04_switch%20case/04_switch%20case)
+   * [switch-case - advanced example](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/05_switch%20case%20-%20for%20grades/05_switch%20case%20-%20for%20grades)
 
 + Loops
-
-
+   * [while + do-while + for](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/06_loops/06_loops)
+   * [while VS do-while](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/07_while%20VS%20do-while/07_while%20VS%20do-while)
 + Function
-
+   * [declare function + get parameters + return value](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/08_functions/08_functions)
 + Ref
-
+   * [the result - changing values of ref parameters in function](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/09_ref%20problem/09_ref%20problem)
+   * [using ref with array parameter](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/10_ref/10_ref)
 ### object oriented programming
 + Home work
   * [class task](https://github.com/AtaloAbeje/Csharp/tree/master/Home_work/Class%20Task/class_task_solution/class_task_24_12) [(see the question)](https://github.com/AtaloAbeje/Csharp/blob/master/Home_work/Class%20Task/class%20task.pdf)

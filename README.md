@@ -17,6 +17,10 @@
   * [Matrix (see the result of code)](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2003%20-%2005.11.2018/00_Matrix)
   * [jagged array (see the result of code)](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2003%20-%2005.11.2018/01_jugged%20array)
 + Conditions
+  * three options to craete a condition[https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/00_Conditions/00_Conditions] (see the result of code)[https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/00_Conditions/result.png]
+  * else-if and nested condition (see the result of code)
+  * short condition (see the result of code)
+  * short condition - example (see the result of code)
 
 
 + Switch - case

@@ -34,8 +34,18 @@
 + Ref
    * [the result - changing values of ref parameters in function](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/09_ref%20problem/09_ref%20problem)
    * [using ref with array parameter](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/10_ref/10_ref)
+   
 ### object oriented programming
++ Simple class and instances
+   * [oop basics]
+   * [first class example](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/12_first%20class%20example/12_first%20class%20example) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/12_first%20class%20example/result.png)
+   * [methods in a class](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/13_class%20and%20method/13_class%20and%20method) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/13_class%20and%20method/result.png)
+   * [function - getter and setter](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2005%20-%2019.11.2018/00_accesss/00_accesss) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2005%20-%2019.11.2018/00_accesss/result.png)
+   * [propfull - getter and setter](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2005%20-%2019.11.2018/01_propfull/00_accesss) *[(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2005%20-%2019.11.2018/01_propfull/result.png)
+   * [private + public - summery](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2005%20-%2019.11.2018/private%20%2B%20public%20-%20summery.pdf)
+   
+
 + Home work
   * [class task](https://github.com/AtaloAbeje/Csharp/tree/master/Home_work/Class%20Task/class_task_solution/class_task_24_12) [(see the question)](https://github.com/AtaloAbeje/Csharp/blob/master/Home_work/Class%20Task/class%20task.pdf)
   * [Cinema manager](https://github.com/AtaloAbeje/Csharp/tree/master/Home_work/ClassTask_10_12_18%20-%20CinemaManager/Q2%20-%20result) [(see the question)](https://github.com/AtaloAbeje/Csharp/blob/master/Home_work/ClassTask_10_12_18%20-%20CinemaManager/OPP%20-%20Q.png)
-   * [Person manager](https://github.com/AtaloAbeje/Csharp/tree/master/Home_work/ClassTask_10_12_18%20-%20Person/Q1%20-%20result) [(see the question)](https://github.com/AtaloAbeje/Csharp/blob/master/Home_work/ClassTask_10_12_18%20-%20Person/OPP%20-%20Q.png)
+  * [Person manager](https://github.com/AtaloAbeje/Csharp/tree/master/Home_work/ClassTask_10_12_18%20-%20Person/Q1%20-%20result) [(see the question)](https://github.com/AtaloAbeje/Csharp/blob/master/Home_work/ClassTask_10_12_18%20-%20Person/OPP%20-%20Q.png)

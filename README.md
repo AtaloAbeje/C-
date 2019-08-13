@@ -47,71 +47,64 @@
 + Constructor
    * [basic constructor - with no parameters](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2006%20-%2026.11.2018/00_constructor/00_constructor) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2006%20-%2026.11.2018/00_constructor/result.png)
    * [constructor - with parameters + overloading](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2006%20-%2026.11.2018/01_constructor%20with%20parameters/01_constructor%20with%20parameters) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2006%20-%2026.11.2018/01_constructor%20with%20parameters/result.png)
-
 + Composition
-   * [composition] [(see the result of code)]
-   * [exercise for composition] p(see the result of code]
+   * [composition](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2006%20-%2026.11.2018/02_composition/02_composition) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2006%20-%2026.11.2018/02_composition/result.png)
 + Static
-   * [Static vs Non-Static]
-   * [static function and property]
-   * [static constructor] 
-    static class (see the result of code)
+   * [Static vs Non-Static](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2008%20-%2017.12.2018/00_static)
+   * [static function and property](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2008%20-%2017.12.2018/00_static/00_static)
+   * [static constructor](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2008%20-%2017.12.2018/01_static%20constructor/01_static%20constructor)
+    static class (see the result of code)(https://github.com/AtaloAbeje/Csharp/tree/master/Day%2008%20-%2017.12.2018/02_static%20class/02_static%20class)
 
 + Inheritance
-   * [basic inheritance[ [(see the result of code)]
-   * [call base constructor from sub constructor] [(see the result of code)]
-   * [constructor in inheritance]
-   * [override and base]
-   * [override + virtual + sealed]
-   * [polymorphism and down-cast]
+   * [basic inheritance](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2008%20-%2017.12.2018/03_inheritance/03_inheritance) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2008%20-%2017.12.2018/03_inheritance/result.png)
+   * [call base constructor from sub constructor](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2008%20-%2017.12.2018/04_inheritance/03_inheritance) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2008%20-%2017.12.2018/04_inheritance/result.png)
+   * [constructor in inheritance](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2008%20-%2017.12.2018/Constructor%20in%20inheritance.md)
+   * [override and base](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2008%20-%2017.12.2018/override%20and%20base.md)
+   * [override + virtual + sealed](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2009%20-%2024.12.2018/01_Override.md)
+   * [polymorphism and down-cast](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2008%20-%2017.12.2018/polymorphism%20and%20down-cast.md)
 
-* [readonly]
+* [readonly](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2009%20-%2024.12.2018/01_Override.md)
 
-* [generic class and methods]
+* [generic class and methods](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2009%20-%2024.12.2018/02_Generic.md)
 
 + Delegates and Events
-   * [basic delegate and lambda]
-   * [delegate in c# VS in js]
-   * [overridin delegate content]
-   * [delegate that points to multiple functions]
-   * [delegate and += -=]
-   * [Delegate VS Event]
-        * [delegate example]
-        * [event example]
-   * [check if event is not null with ?.Invoke]
+   * [basic delegate and lambda](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2010%20-%2031.12.2018/02_Delegates/Program.cs)
+   * [delegate in c# VS in js](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2010%20-%2031.12.2018/01_function%20var%20-%20in%20c%23%20and%20in%20javascript)
+   * [overridin delegate content](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2010%20-%2031.12.2018/03_Delegates/Program.cs)
+   * [delegate that points to multiple functions](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2010%20-%2031.12.2018/04_Delegates/Program.cs)
+   * [delegate and += -=](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2010%20-%2031.12.2018/05_Delegates/Program.cs)
+   * [Delegate VS Event](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2010%20-%2031.12.2018/06_event%20vs%20delegate)
+        * [delegate example](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2010%20-%2031.12.2018/06_event%20vs%20delegate/00_delegate/Program.cs)
+        * [event example](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2010%20-%2031.12.2018/06_event%20vs%20delegate/01_event/Program.cs)
+   * [check if event is not null with ?.Invoke](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2010%20-%2031.12.2018/07_handle%20null%20event/Program.cs)
 
 + Generic delegates
-    * [predicate]
-    * [action]
-    * [func]
+    * [predicate](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2010%20-%2031.12.2018/08_generic%20delegates/01_Peredicate/Program.cs)
+    * [action](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2010%20-%2031.12.2018/08_generic%20delegates/02_Action/Program.cs)
+    * [func](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2010%20-%2031.12.2018/08_generic%20delegates/03_Func/Program.cs)
++ Events with Generic delegates
+    * [example generic delegate event](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2010%20-%2031.12.2018/09_example%20of%20car%20and%20generic%20delegate%20event/program.cs) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2010%20-%2031.12.2018/09_example%20of%20car%20and%20generic%20delegate%20event/result.png)
 
-Events with Generic delegates
-    example generic delegate event (see the result of code)
-   
+* [sealed class](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2012%20-%2014.01.2019/00_sealed%20class)
++ Abstract
+    * [abstract class and abstaract functions](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2012%20-%2014.01.2019/01_abstract%20class)
++ Interface
+    * [what is interface + interface VS abstract](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2012%20-%2014.01.2019/03_interface/03_interface.pdf)
+    * [implementing interface](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2012%20-%2014.01.2019/03_interface)
++ Namespace
+    * [what is namespace](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2012%20-%2014.01.2019/05_namespace)
+    * [using namespace and nested-namespace](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2012%20-%2014.01.2019/05_namespace/00_namespace/00_namespace)
++ Dll
+    * [how to create a console app with a dll](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2012%20-%2014.01.2019/06_DLL/00_example)
+    * [example for a console app with a dll](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2012%20-%2014.01.2019/06_DLL/00_example/example)
 
-sealed class
-
-Abstract
-    abstract class and abstaract functions
-
-Interface
-    what is interface + interface VS abstract
-    implementing interface
-
-Namespace
-    what is namespace
-    using namespace and nested-namespace
-
-Dll
-    how to create a console app with a dll
-    example for a console app with a dll
-
-Accessibility Levels
-
-Exception handling (try, catch, finally)
+* [Accessibility Levels](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2012%20-%2014.01.2019/07_Access%20modifiers/Accessibility%20Levels.pdf)
+* [Exception handling (try, catch, finally)](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2012%20-%2014.01.2019/08_error%20handling)
 
 + Home work
   * [class task](https://github.com/AtaloAbeje/Csharp/tree/master/Home_work/Class%20Task/class_task_solution/class_task_24_12) [(see the question)](https://github.com/AtaloAbeje/Csharp/blob/master/Home_work/Class%20Task/class%20task.pdf)
   * [Cinema manager](https://github.com/AtaloAbeje/Csharp/tree/master/Home_work/ClassTask_10_12_18%20-%20CinemaManager/Q2%20-%20result) [(see the question)](https://github.com/AtaloAbeje/Csharp/blob/master/Home_work/ClassTask_10_12_18%20-%20CinemaManager/OPP%20-%20Q.png)
   * [Person manager](https://github.com/AtaloAbeje/Csharp/tree/master/Home_work/ClassTask_10_12_18%20-%20Person/Q1%20-%20result) [(see the question)](https://github.com/AtaloAbeje/Csharp/blob/master/Home_work/ClassTask_10_12_18%20-%20Person/OPP%20-%20Q.png)
+### oop summarize
+* [summarize](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2012%20-%2014.01.2019/oop%20-%20full%20overview.pdf)
   

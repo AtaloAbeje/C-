@@ -41,12 +41,12 @@
    * [first class example](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/12_first%20class%20example/12_first%20class%20example) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/12_first%20class%20example/result.png)
    * [methods in a class](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/13_class%20and%20method/13_class%20and%20method) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/13_class%20and%20method/result.png)
    * [function - getter and setter](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2005%20-%2019.11.2018/00_accesss/00_accesss) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2005%20-%2019.11.2018/00_accesss/result.png)
-   * [propfull - getter and setter](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2005%20-%2019.11.2018/01_propfull/00_accesss) *[(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2005%20-%2019.11.2018/01_propfull/result.png)
+   * [propfull - getter and setter](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2005%20-%2019.11.2018/01_propfull/00_accesss) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2005%20-%2019.11.2018/01_propfull/result.png)
    * [private + public - summery](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2005%20-%2019.11.2018/private%20%2B%20public%20-%20summery.pdf)
    
 + Constructor
    * [basic constructor - with no parameters](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2006%20-%2026.11.2018/00_constructor/00_constructor) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2006%20-%2026.11.2018/00_constructor/result.png)
-   * [constructor - with parameters + overloading](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2006%20-%2026.11.2018/01_constructor%20with%20parameters/01_constructor%20with%20parameters) *[(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2006%20-%2026.11.2018/01_constructor%20with%20parameters/result.png)
+   * [constructor - with parameters + overloading](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2006%20-%2026.11.2018/01_constructor%20with%20parameters/01_constructor%20with%20parameters) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2006%20-%2026.11.2018/01_constructor%20with%20parameters/result.png)
 
 + Composition
    * [composition] [(see the result of code)]
@@ -57,34 +57,33 @@
    * [static constructor] 
     static class (see the result of code)
 
-Inheritance
-    basic inheritance (see the result of code)
-    call base constructor from sub constructor (see the result of code)
-    constructor in inheritance
-    override and base
-    override + virtual + sealed
-    polymorphism and down-cast
++ Inheritance
+   * [basic inheritance[ [(see the result of code)]
+   * [call base constructor from sub constructor] [(see the result of code)]
+   * [constructor in inheritance]
+   * [override and base]
+   * [override + virtual + sealed]
+   * [polymorphism and down-cast]
 
-readonly
+* [readonly]
 
-generic class and methods
+* [generic class and methods]
 
-Delegates and Events
++ Delegates and Events
+   * [basic delegate and lambda]
+   * [delegate in c# VS in js]
+   * [overridin delegate content]
+   * [delegate that points to multiple functions]
+   * [delegate and += -=]
+   * [Delegate VS Event]
+        * [delegate example]
+        * [event example]
+   * [check if event is not null with ?.Invoke]
 
-    basic delegate and lambda
-    delegate in c# VS in js
-    overridin delegate content
-    delegate that points to multiple functions
-    delegate and += -=
-    Delegate VS Event
-        delegate example
-        event example
-    check if event is not null with ?.Invoke
-
-Generic delegates
-    predicate
-    action
-    func
++ Generic delegates
+    * [predicate]
+    * [action]
+    * [func]
 
 Events with Generic delegates
     example generic delegate event (see the result of code)

@@ -37,15 +37,82 @@
    
 ### object oriented programming
 + Simple class and instances
-   * [oop basics]
+   * [oop basics](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/oop%20basics.docx)
    * [first class example](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/12_first%20class%20example/12_first%20class%20example) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/12_first%20class%20example/result.png)
    * [methods in a class](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/13_class%20and%20method/13_class%20and%20method) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/13_class%20and%20method/result.png)
    * [function - getter and setter](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2005%20-%2019.11.2018/00_accesss/00_accesss) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2005%20-%2019.11.2018/00_accesss/result.png)
    * [propfull - getter and setter](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2005%20-%2019.11.2018/01_propfull/00_accesss) *[(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2005%20-%2019.11.2018/01_propfull/result.png)
    * [private + public - summery](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2005%20-%2019.11.2018/private%20%2B%20public%20-%20summery.pdf)
    
++ Constructor
+   * [basic constructor - with no parameters](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2006%20-%2026.11.2018/00_constructor/00_constructor) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2006%20-%2026.11.2018/00_constructor/result.png)
+   * [constructor - with parameters + overloading](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2006%20-%2026.11.2018/01_constructor%20with%20parameters/01_constructor%20with%20parameters) *[(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2006%20-%2026.11.2018/01_constructor%20with%20parameters/result.png)
+
++ Composition
+   * [composition] [(see the result of code)]
+   * [exercise for composition] p(see the result of code]
++ Static
+   * [Static vs Non-Static]
+   * [static function and property]
+   * [static constructor] 
+    static class (see the result of code)
+
+Inheritance
+    basic inheritance (see the result of code)
+    call base constructor from sub constructor (see the result of code)
+    constructor in inheritance
+    override and base
+    override + virtual + sealed
+    polymorphism and down-cast
+
+readonly
+
+generic class and methods
+
+Delegates and Events
+
+    basic delegate and lambda
+    delegate in c# VS in js
+    overridin delegate content
+    delegate that points to multiple functions
+    delegate and += -=
+    Delegate VS Event
+        delegate example
+        event example
+    check if event is not null with ?.Invoke
+
+Generic delegates
+    predicate
+    action
+    func
+
+Events with Generic delegates
+    example generic delegate event (see the result of code)
+   
+
+sealed class
+
+Abstract
+    abstract class and abstaract functions
+
+Interface
+    what is interface + interface VS abstract
+    implementing interface
+
+Namespace
+    what is namespace
+    using namespace and nested-namespace
+
+Dll
+    how to create a console app with a dll
+    example for a console app with a dll
+
+Accessibility Levels
+
+Exception handling (try, catch, finally)
 
 + Home work
   * [class task](https://github.com/AtaloAbeje/Csharp/tree/master/Home_work/Class%20Task/class_task_solution/class_task_24_12) [(see the question)](https://github.com/AtaloAbeje/Csharp/blob/master/Home_work/Class%20Task/class%20task.pdf)
   * [Cinema manager](https://github.com/AtaloAbeje/Csharp/tree/master/Home_work/ClassTask_10_12_18%20-%20CinemaManager/Q2%20-%20result) [(see the question)](https://github.com/AtaloAbeje/Csharp/blob/master/Home_work/ClassTask_10_12_18%20-%20CinemaManager/OPP%20-%20Q.png)
   * [Person manager](https://github.com/AtaloAbeje/Csharp/tree/master/Home_work/ClassTask_10_12_18%20-%20Person/Q1%20-%20result) [(see the question)](https://github.com/AtaloAbeje/Csharp/blob/master/Home_work/ClassTask_10_12_18%20-%20Person/OPP%20-%20Q.png)
+  

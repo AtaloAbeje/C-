@@ -35,5 +35,5 @@
 
 ### object oriented programming
 + Home work
-  * [class task](https://github.com/AtaloAbeje/Csharp/tree/master/Home_work/Class%20Task/class_task_solution/class_task_24_12) [(see the question])(https://github.com/AtaloAbeje/Csharp/blob/master/Home_work/Class%20Task/class%20task.pdf)
-  * [Cinema manager](https://github.com/AtaloAbeje/Csharp/tree/master/Home_work/ClassTask_10_12_18%20-%20CinemaManager/Q2%20-%20result) [(see the question])(https://github.com/AtaloAbeje/Csharp/blob/master/Home_work/ClassTask_10_12_18%20-%20CinemaManager/OPP%20-%20Q.png)
+  * [class task](https://github.com/AtaloAbeje/Csharp/tree/master/Home_work/Class%20Task/class_task_solution/class_task_24_12) [(see the question)](https://github.com/AtaloAbeje/Csharp/blob/master/Home_work/Class%20Task/class%20task.pdf)
+  * [Cinema manager](https://github.com/AtaloAbeje/Csharp/tree/master/Home_work/ClassTask_10_12_18%20-%20CinemaManager/Q2%20-%20result) [(see the question)](https://github.com/AtaloAbeje/Csharp/blob/master/Home_work/ClassTask_10_12_18%20-%20CinemaManager/OPP%20-%20Q.png)

@@ -19,7 +19,7 @@
 + Conditions
   * [three options to craete a condition](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2004%20-%2012.11.2018/00_Conditions/00_Conditions) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/00_Conditions/result.png)
   * [else-if and nested condition](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/01_nested%20conduition/01_nested%20conduition/Program.cs) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/01_nested%20conduition/result.png)
-  * short condition(https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/02_Short%20Condition/02_Short%20Condition/Program.cs) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/02_Short%20Condition/result.png)
+  * [short condition](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/02_Short%20Condition/02_Short%20Condition/Program.cs) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/02_Short%20Condition/result.png)
   * [short condition - example](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/03_short%20condition%20-%20example/03_short%20condition%20-%20example/Program.cs) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2004%20-%2012.11.2018/03_short%20condition%20-%20example/result.png)
 
 + Switch - case

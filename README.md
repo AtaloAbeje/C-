@@ -53,7 +53,7 @@
    * [Static vs Non-Static](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2008%20-%2017.12.2018/00_static)
    * [static function and property](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2008%20-%2017.12.2018/00_static/00_static)
    * [static constructor](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2008%20-%2017.12.2018/01_static%20constructor/01_static%20constructor)
-   * [static class (see the result of code)](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2008%20-%2017.12.2018/02_static%20class/02_static%20class)
+   * [static class](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2008%20-%2017.12.2018/02_static%20class/02_static%20class) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2008%20-%2017.12.2018/02_static%20class/result.png)
 
 + Inheritance
    * [basic inheritance](https://github.com/AtaloAbeje/Csharp/tree/master/Day%2008%20-%2017.12.2018/03_inheritance/03_inheritance) [(see the result of code)](https://github.com/AtaloAbeje/Csharp/blob/master/Day%2008%20-%2017.12.2018/03_inheritance/result.png)

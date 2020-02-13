@@ -6,19 +6,13 @@ namespace ConsoleApp1
 {
     class Pixel
     {
+        // R B G
         private int r;
         public int R
         {
             get { return r; }
             set { r = checkValue(value); }
 
-        }
-
-        private int g;
-        public int G
-        {
-            get { return g; }
-            set { g = checkValue(value); }
         }
 
         private int b;
@@ -28,27 +22,33 @@ namespace ConsoleApp1
             set { b = checkValue(value); }
         }
 
+
+        private int g;
+        public int G
+        {
+            get { return g; }
+            set { g = checkValue(value); }
+        }
+
         // access only from here
         private int checkValue(int value)
         {
             if (value > 0 && value <= 255)
                 return value;
             return 0;
-
         }
 
-        // empty ctor
-        //public Pixel() { }
-
         // ctor
-        public Pixel(int r, int g, int b)
+        public Pixel(int r, int b, int g)
         {
-            R = r; G = g; B = b;
+            R = r;
+            B = b;
+            G = g;
         }
 
         public string getDescription()
         {
-            return $"{R}, {G}, {B}";
+            return $"{R}, {B}, {G}";
         }
     }
 }

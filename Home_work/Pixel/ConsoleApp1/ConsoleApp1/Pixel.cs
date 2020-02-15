@@ -7,12 +7,13 @@ namespace ConsoleApp1
     class Pixel
     {
         // R B G
+        // int[] arr;
+
         private int r;
         public int R
         {
             get { return r; }
             set { r = checkValue(value); }
-
         }
 
         private int b;
@@ -21,7 +22,6 @@ namespace ConsoleApp1
             get { return b; }
             set { b = checkValue(value); }
         }
-
 
         private int g;
         public int G
@@ -46,9 +46,15 @@ namespace ConsoleApp1
             G = g;
         }
 
-        public string getDescription()
+        // empty ctor
+        public Pixel() { }
+
+        // 
+        /*
+        public string getInfo()
         {
             return $"{R}, {B}, {G}";
         }
+        */
     }
 }
